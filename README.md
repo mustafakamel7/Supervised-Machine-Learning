@@ -26,8 +26,7 @@
 
     - Classification with logistic regression
     - Cost function and gradient descent for logistic regression
-        - cost function for linear regreesion (sigmoid function) : $$g = \frac{1}{1 + e^{-z}}$$
- where z = w * x + b
+        - cost function for linear regreesion (sigmoid function) : $$g = \frac{1}{1 + e^{-z}}$$, where z = w * x + b
     - Solving the problem of overfitting with regularization 
 - Programming Assignment
     -logistic Regreesion
