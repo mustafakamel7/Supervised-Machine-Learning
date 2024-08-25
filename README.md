@@ -19,7 +19,7 @@
   - Choosing the learning rate "alpha"
   - Polynomial Regression
     
-####Programming Assignment
+#### Programming Assignment
   -Linear Regreesion
 
 
@@ -30,7 +30,7 @@
     - Cost function for linear regreesion (sigmoid function) : $$g = \frac{1}{1 + e^{-z}}$$ , where z = w * x + b
   - Solving the problem of overfitting with regularization
     
-####Programming Assignment
+#### Programming Assignment
   -Logistic Regreesion
 
 
