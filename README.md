@@ -10,7 +10,7 @@
   
 
 ### Week2
-
+  
   - Multiple variable linear regression with vectorization
   - Feature scaling and feature Engineering
       - traditional Normalization
@@ -20,7 +20,7 @@
   - Polynomial Regression
     
 #### Programming Assignment
-  -Linear Regreesion
+  - Linear Regreesion
 
 
 ### Week3
@@ -31,6 +31,6 @@
   - Solving the problem of overfitting with regularization
     
 #### Programming Assignment
-  -Logistic Regreesion
+  - Logistic Regreesion
 
 
