@@ -2,14 +2,14 @@
 
 ## Regression
 
-###[week1]
+### Week1
   
   -Simple Linear Regression and Cost Function Visualization.
       - cost function for linear regreesion : w * x + b
   -Training the model with gradient descent
   
 
-###[week2]
+### Week2
 
   - Multiple variable linear regression with vectorization
   - Feature scaling and feature Engineering
@@ -18,17 +18,19 @@
       - Z-Score Normalization
   - Choosing the learning rate "alpha"
   - Polynomial Regression
-- Programming Assignment
+    
+####Programming Assignment
   -Linear Regreesion
 
 
-###[[week3]
+### Week3
 
   - Classification with logistic regression
   - Cost function and gradient descent for logistic regression
     - Cost function for linear regreesion (sigmoid function) : $$g = \frac{1}{1 + e^{-z}}$$ , where z = w * x + b
-  - Solving the problem of overfitting with regularization           
-- Programming Assignment
-    -Logistic Regreesion
+  - Solving the problem of overfitting with regularization
+    
+####Programming Assignment
+  -Logistic Regreesion
 
 
