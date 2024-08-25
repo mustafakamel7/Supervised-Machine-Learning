@@ -6,7 +6,12 @@ def load_data(filename):
     X = data[:,:2]
     y = data[:,2]
     return X, y
-
+def load_data_multi():
+    data = np.loadtxt("data/ex1data2.txt", delimiter=',')
+    X = data[:,:2]
+    y = data[:,2]
+    return X, y
+    
 def sig(z):
  
     return 1/(1+np.exp(-z))
