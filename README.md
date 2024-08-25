@@ -2,14 +2,14 @@
 
 ## Regression
 
-- week1:
+- [week1]
   
   -Simple Linear Regression and Cost Function Visualization.
       - cost function for linear regreesion : w * x + b
   -Training the model with gradient descent
   
 
-- week2:
+- [week2]
 
   - Multiple variable linear regression with vectorization
   - Feature scaling and feature Engineering
@@ -22,7 +22,7 @@
   -Linear Regreesion
 
 
-- week3
+- [week3]
 
     - Classification with logistic regression
     - Cost function and gradient descent for logistic regression
